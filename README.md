@@ -16,5 +16,9 @@ Este repositório tem como intuito gerar senhas "criptografadas" que, caso não 
 - *Fernet (cryptography.fernet)*
 - *secrets*
 
+## Clonar o projeto
 
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/lucasFR2/password_generator.git
 Caso queira utilizar o código, fique a vontade. Peço que dê os créditos a mim caso for utilizar
