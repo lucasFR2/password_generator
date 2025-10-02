@@ -35,4 +35,4 @@ Para instalar a biblioteca *Fernet*, você deverá iniciar em seu terminal:
    ```bash
    git clone https://github.com/lucasFR2/password_generator.git
    
-Caso queira utilizar o código, fique a vontade. Peço que dê os créditos a mim caso for utilizar
+Caso queira utilizar o código, fique a vontade. Peço que dê os créditos a mim caso for utilizar. E sobre contribuições, fique a vontade para enviar sua Pull Request!
